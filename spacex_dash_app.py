@@ -1,4 +1,5 @@
-# Python code for Plotly Dash app
+# Python code for Plotly Dash app. To run the app, I used a Theia IDE provided in IBM's Applied Data Science Capstone course on Coursera and
+# ran this Python file in the terminal after downloing the "spacex_launch_dash.csv" file that was provided there.
 
 # Import required libraries
 import pandas as pd
